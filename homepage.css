@@ -3,3 +3,18 @@ body {
 	background: -webkit-linear-gradient(to left, #00c6ff , #0072ff); /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to left, #00c6ff , #0072ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-size: 70px;
+  '
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-size: 20px;
+}
+
