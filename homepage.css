@@ -8,8 +8,10 @@ body {
 h1 {
   font-family: "Times New Roman", Times, serif;
   color: white;
-  font-size: 70px;
-  '
+  font-size: 80px;
+  padding-top: 30px;
+
+  
 }
 
 p {
